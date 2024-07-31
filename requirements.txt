@@ -1,0 +1,11 @@
+requests
+tqdm
+python-telegram-bot==13.11
+langchain
+sentence-transformers
+faiss-cpu
+rdflib
+llama-cpp-python
+fire
+pyaudio
+vosk
