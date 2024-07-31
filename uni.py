@@ -159,7 +159,7 @@ class RAGSystem:
         generator = self.llama_model.generate(
             tokens,
             top_k=30,
-            top_p=0.95,
+            top_p=0.9,
             temp=0.2,
             repeat_penalty=1.1
         )
