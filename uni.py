@@ -19,7 +19,7 @@ import zipfile
 LLAMA_MODEL_URL = "https://huggingface.co/IlyaGusev/saiga2_7b_gguf/resolve/main/model-q2_K.gguf"
 LLAMA_MODEL_PATH = "model-q2_K.gguf"
 ONTOLOGY_URL = "https://dbpedia.org/data/Leonardo_da_Vinci.ttl"
-TELEGRAM_BOT_TOKEN = "7212001740:AAHWofzBFIls-6afLyDJWVhTfAvSvTrVA9Y"
+TELEGRAM_BOT_TOKEN = " " #Вставить сюда токен для вашего тг-бота
 
 VOSK_MODEL_URL = "https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip"
 VOSK_MODEL_DIR = "model"
